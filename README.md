@@ -10,7 +10,7 @@ Built with:
 - CSS
 - Javascript
 
-Website Link:
+Website Link: https://mspierings96.github.io/note-taker/
 
 
 Screenshot of Site
