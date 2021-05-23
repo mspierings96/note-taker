@@ -15,7 +15,7 @@ Website Link:
 
 Screenshot of Site
 
-<img src="" width="300">
+<img src="https://github.com/mspierings96/note-taker/blob/main/Develop/images/note-taker.jpg" width="300">
 
 
 Contribution
